@@ -98,7 +98,7 @@
     </pluginRepositories>
 <distributionManagement>
         <repository>
-            <id>anypoint-connected-app</id>
+            <id>ci-cd-repository</id>
             <name>Corporate Repository</name>
             <url>https://maven.anypoint.mulesoft.com/api/v2/organizations/${project.groupId}/maven</url>
             <layout>default</layout>
