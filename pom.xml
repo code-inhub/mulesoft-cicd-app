@@ -34,7 +34,7 @@
                         <uri>https://anypoint.mulesoft.com</uri>
                         <provider>MC</provider>
                         <environment>${environment}</environment>
-                        <target>cc-mule-private-space</target>
+                        <target>demo-private-space</target>
                         <releaseChannel>LTS</releaseChannel>
                         <javaVersion>${javaVersion}</javaVersion>
                         <connectedAppClientId>${ClientId}</connectedAppClientId>
